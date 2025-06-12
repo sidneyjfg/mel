@@ -184,19 +184,12 @@ const Benefits = () => {
           
           <div className="relative z-10">
             <h3 className="text-3xl md:text-4xl font-bold text-white mb-6 animate-pulse">
-              Experimente a Diferença do Mel Artesanal
+              Diferença do Mel Artesanal
             </h3>
             <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
               Nosso mel é cuidadosamente extraído respeitando o ciclo natural das abelhas, 
               preservando todos os nutrientes e propriedades benéficas.
             </p>
-            <button className="group bg-white text-amber-600 px-8 py-4 rounded-full font-bold text-lg hover:bg-amber-50 transition-all transform hover:scale-105 shadow-lg hover:shadow-2xl relative overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-r from-amber-100 to-yellow-100 scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></div>
-              <span className="relative z-10">Compre Agora</span>
-              
-              {/* Honey drip on button */}
-              <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-1 h-2 bg-amber-400 rounded-full opacity-0 group-hover:opacity-100 group-hover:animate-honey-flow"></div>
-            </button>
           </div>
         </div>
       </div>

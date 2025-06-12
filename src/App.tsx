@@ -3,10 +3,9 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Benefits from './components/Benefits';
 import Process from './components/Process';
-import Products from './components/Products';
 import About from './components/About';
-import Testimonials from './components/Testimonials';
-import Contact from './components/Contact';
+// import Testimonials from './components/Testimonials';
+// import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 interface Splash {
@@ -34,15 +33,14 @@ function App() {
 
 
   return (
-    <div className="bg-[url('/img/mel-pattern-light.png')] bg-repeat bg-amber-50 min-h-screen relative overflow-hidden" onClick={handleClick}>
+    <div className="bg-[url('/img/urlaqui')] bg-repeat bg-amber-50 min-h-screen relative overflow-hidden" onClick={handleClick}>
       <Header />
       <Hero />
       <Benefits />
       <Process />
-      <Products />
       <About />
-      <Testimonials />
-      <Contact />
+      {/* <Testimonials /> */}
+      {/* <Contact /> */}
       <Footer />
 
       {/* Splash DEPOIS dos componentes */}

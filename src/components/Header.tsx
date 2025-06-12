@@ -10,7 +10,6 @@ const Header = () => {
     { href: '#home', label: 'Início' },
     { href: '#benefits', label: 'Benefícios' },
     { href: '#process', label: 'Processo' },
-    { href: '#products', label: 'Produtos' },
     { href: '#about', label: 'Sobre Nós' },
     { href: '#contact', label: 'Contato' },
   ];
@@ -22,7 +21,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <Hexagon className="h-8 w-8 text-amber-600 fill-current" />
-            <h2 className="font-cute text-4xl text-amber-900">🐝 Mel Dourado</h2>
+            <h2 className="font-cute text-4xl text-amber-900">🐝 Vitta melis</h2>
           </div>
 
           {/* Desktop Navigation */}

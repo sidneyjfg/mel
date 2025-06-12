@@ -51,8 +51,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-amber-900 mb-2">Telefone</h4>
-                  <p className="text-gray-600">(11) 9 8765-4321</p>
-                  <p className="text-gray-600">(11) 3456-7890</p>
+                  <p className="text-gray-600">(41) 9 9999-9999</p>
+                  <p className="text-gray-600">(41) 9999-9999</p>
                 </div>
               </div>
               
@@ -62,8 +62,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-amber-900 mb-2">E-mail</h4>
-                  <p className="text-gray-600">contato@meldourado.com.br</p>
-                  <p className="text-gray-600">vendas@meldourado.com.br</p>
+                  <p className="text-gray-600">contato@mel.com.br</p>
+                  <p className="text-gray-600">vendas@mel.com.br</p>
                 </div>
               </div>
               
@@ -74,7 +74,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold text-amber-900 mb-2">Endereço</h4>
                   <p className="text-gray-600">Estrada Rural, Km 15</p>
-                  <p className="text-gray-600">Zona Rural - Interior, SP</p>
+                  <p className="text-gray-600">Zona Rural - Interior, PR</p>
                   <p className="text-gray-600">CEP: 12345-678</p>
                 </div>
               </div>
@@ -199,7 +199,7 @@ const Contact = () => {
               <div className="text-center">
                 <MapPin className="h-16 w-16 text-amber-600 mx-auto mb-4" />
                 <h4 className="text-xl font-bold text-amber-900 mb-2">
-                  Apiário Mel Dourado
+                  Apiário Vitta melis
                 </h4>
                 <p className="text-gray-600">
                   Localizado na zona rural, em meio à natureza preservada

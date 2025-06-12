@@ -109,7 +109,7 @@ const Hero = () => {
             <div className="relative group">
               <img
                 src="https://images.pexels.com/photos/5946035/pexels-photo-5946035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                alt="Pote de mel dourado"
+                alt="Pote de Vitta melis"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-2xl transform rotate-3 hover:rotate-0 transition-all duration-500 hover:scale-110 group-hover:shadow-amber-500/25"
               />
               <div className="absolute -top-4 -right-4 bg-amber-400 text-amber-900 px-4 py-2 rounded-full font-bold text-sm shadow-lg animate-bounce">

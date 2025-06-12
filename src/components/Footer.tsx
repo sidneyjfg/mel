@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
               <Hexagon className="h-10 w-10 text-yellow-400 fill-current" />
-              <span className="text-2xl font-bold">Mel Dourado</span>
+              <span className="text-2xl font-bold">Vitta melis</span>
             </div>
             <p className="text-amber-100 mb-6 leading-relaxed">
               Tradição familiar na produção de mel artesanal há mais de 30 anos. 
@@ -109,8 +109,8 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-yellow-400" />
                 <div>
-                  <p className="text-amber-100">(11) 9 8765-4321</p>
-                  <p className="text-amber-100">(11) 3456-7890</p>
+                  <p className="text-amber-100">(41) 9 9999-9999</p>
+                  <p className="text-amber-100">(41) 3456-7890</p>
                 </div>
               </div>
               
@@ -125,7 +125,7 @@ const Footer = () => {
                 <MapPin className="h-5 w-5 text-yellow-400 mt-1" />
                 <div>
                   <p className="text-amber-100">Estrada Rural, Km 15</p>
-                  <p className="text-amber-100">Zona Rural - Interior, SP</p>
+                  <p className="text-amber-100">Zona Rural - Interior, PR</p>
                   <p className="text-amber-100">CEP: 12345-678</p>
                 </div>
               </div>
@@ -142,7 +142,7 @@ const Footer = () => {
         <div className="border-t border-amber-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-amber-200 text-sm mb-4 md:mb-0">
-              <p>&copy; 2024 Mel Dourado. Todos os direitos reservados.</p>
+              <p>&copy; 2025 Vitta melis. Todos os direitos reservados.</p>
             </div>
             
             <div className="flex space-x-6 text-sm">
